@@ -1,6 +1,6 @@
 import {Store} from "./store"
 import { Box } from "./Box"
-const Task = () => {
+const Foot = () => {
 
     return(
         <div>
@@ -19,4 +19,4 @@ const Task = () => {
         </div>
     )
 }
-export {Task}
+export {Foot}

@@ -1,14 +1,13 @@
-
-const Navbar = () =>{
+const Dashboard = () => {
     return(
         <div>
-            <section className="taskboard">
-                <section className='logo' style={{color:green'}}>
+            <section">
+                <section style={{color:green'}}>
 
 
                 </section>
                 <section className='text'>
-                    <p className='name'>John Wick</p>
+                    <p className='name'>web</p>
                     <p>Developer</p>
                 </section>
             </section>
@@ -22,18 +21,18 @@ const Navbar = () =>{
                     </section>
                     <section>
                         <h3>Analytics Dashboard</h3>
-                        <p className='para'>A single place to view all the updates
-                            from the dashboard and quest from it.
+                        <p className='para'>Dashboard is an online report where your website data from ecommerce to web analytics is displayed
+
+
                         </p>
                     </section>
                 </section>
                 <div className='btns'>
                     <div className='btn-1'>
-                        <AiFillStar className='star'/>
+                        
                     </div>
                     <div className='btn-2'>
-                        <BsPlus className='plus'/>
-                        <span>Create New Item</span>
+                       
                     </div>
                 </div>
             </section>
@@ -41,4 +40,4 @@ const Navbar = () =>{
     )
 }
 
-export {Navbar}
+export {Dashboard}
