@@ -27,11 +27,11 @@ const Dashboard = () => {
                         </p>
                     </section>
                 </section>
-                <div className='btns'>
-                    <div className='btn-1'>
+                <div className='buttons'>
+                    <div className='button1'>
                         
                     </div>
-                    <div className='btn-2'>
+                    <div className='buttpn2'>
                        
                     </div>
                 </div>
