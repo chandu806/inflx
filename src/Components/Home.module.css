@@ -1,0 +1,44 @@
+.image{
+    height:50px;
+    width: 50px;
+    float:left;
+    margin-left:20px;
+}
+.main{
+    background-color:rgb(207, 205, 203);
+}
+.head,.para{
+    
+}
+.chat{
+  width:500px;
+  
+  border: 1px solid black;
+  /* margin:auto; */
+}
+.task{
+    width:500px;
+   
+    border: 1px solid black;
+    /* margin:auto; */
+
+
+}
+.box{
+    /* height:100px; */
+}
+h5,p{
+    
+
+}
+.line{
+    height:40px;
+    width: 1px;
+    background-color:orange;
+    margin-left :20px;
+}
+.check{
+   /* margin-left:-500px; */
+   float: left;
+   
+}
