@@ -1,4 +1,4 @@
-const Box = ({name, label, author}) => {
+const Box = ({name, title, author}) => {
     return (
     <div className="box">
         
@@ -7,7 +7,7 @@ const Box = ({name, label, author}) => {
         </section>
         <section>
             <p className="name">{name} 
-            <span className="label"> {label}</span>
+            <span className="title"> {title}</span>
             </p>
             <p>{author}</p>
         </section>

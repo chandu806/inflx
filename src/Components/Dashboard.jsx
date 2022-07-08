@@ -31,7 +31,7 @@ const Dashboard = () => {
                     <div className='button1'>
                         
                     </div>
-                    <div className='buttpn2'>
+                    <div className='button2'>
                        
                     </div>
                 </div>
